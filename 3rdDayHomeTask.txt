@@ -1,0 +1,28 @@
+Home Task :
+
+home page:
+
+Home page a menu thakbe 
+about me te description thakbe
+image nite hobe
+tarpor paragraph likhte hobe 
+addrss likhte hobe
+image right a hobe
+table dite hobe
+footer dite hobe
+copy right dite hobe 
+
+contact page:
+
+Contact page a form likhte hobe contact korar jonno
+
+about page;
+
+about us
+para hobe 
+footer hobe
+
+galary page:
+
+galary hobe
+image hobe 4 ta kore 8 ta dite hobe
